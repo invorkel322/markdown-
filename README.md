@@ -20,11 +20,9 @@
 
  ![5(6)](https://github.com/invorkel322/markdown-/assets/135625414/63566733-bdb7-4c9e-a4d7-ec70300baa8c)
 
-
-
 ![5etoпредласт](https://github.com/invorkel322/markdown-/assets/135625414/6b588169-6d48-4324-a2fc-54674c4d08f8)
 
-
+![5(last)](https://github.com/invorkel322/markdown-/assets/135625414/82bd8c3d-ef80-4d40-a7c7-25b6834574bf)
 
 
  
