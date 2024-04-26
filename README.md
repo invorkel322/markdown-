@@ -16,7 +16,8 @@
 ![5](https://github.com/invorkel322/markdown-/assets/135625414/2fa7cb3f-8c82-4425-bfa4-60858d5a1f45)
 ![5(1)](https://github.com/invorkel322/markdown-/assets/135625414/fc598e93-bf4c-4410-bb54-8ec71093ccdc)
  Был запущен docker-compose.yaml, потому что он имеет более высокий приоритет по умолчанию. В файле compose.yaml указано использовать другой файл docker-compose.yaml с помощью директивы docker_compose_file.
- 
+ ![hz](https://github.com/invorkel322/markdown-/assets/135625414/3a6ce9d8-1d62-4238-b2be-933171fddd16)
+
  ![5(6)](https://github.com/invorkel322/markdown-/assets/135625414/63566733-bdb7-4c9e-a4d7-ec70300baa8c)
 
 
